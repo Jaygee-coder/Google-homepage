@@ -108,6 +108,7 @@ nav {
 
 .input-field:focus {
   border:none;
+  outline: none;
 }
 
 /* BUTTONS */
